@@ -3,7 +3,7 @@
 # Script: Ops 301 Class 02 Ops Challenge
 # Author: Spencer Mitchell
 # Date of latest revision: 3/14/23
-# Purpose: 
+# Purpose: Copy /var/log/syslog to current working directory and append the current date and time to the filename
 
 # Set variable
 file="syslog_$(date +%Y-%m-%d_%H:%M:%S).log"
