@@ -3,7 +3,7 @@
 # Script: Ops 301 Class 02 Ops Challenge
 # Author: Spencer Mitchell
 # Date of latest revision: 3/14/23
-# Purpose: 
+# Purpose: edit syslog to add time/date. ChatGPT helped explain this code to me and with the cp.
 
 # Set variable
 file="syslog_$(date +%Y-%m-%d_%H:%M:%S).log"
