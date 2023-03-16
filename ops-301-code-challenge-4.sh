@@ -32,10 +32,3 @@ while true; do
     fi
 
 done
-
-
-
-
-
-
-Regenerate response
