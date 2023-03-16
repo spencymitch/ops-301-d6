@@ -5,6 +5,8 @@
 # Date of latest revision: 3/16/23
 # Purpose: Create a script that launches a menu system with different options.
 
+# loop 
+
 while true; do
     # print menu options
     echo "Menu Options:"
@@ -30,7 +32,7 @@ while true; do
     fi
 
 done
-The script enters a loop that displays the menu options, requests user input, and then evaluates the input with a conditional statement. Depending on the option selected, the script performs the corresponding action (print "Hello world!", ping the loopback address, or display network adapter information), or exits the loop if the user selects the "Exit" option. The script then prints a separator line and repeats the loop to display the menu again.
+
 
 
 
